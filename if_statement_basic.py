@@ -1,4 +1,4 @@
-temperature = 45 # Or any other number
+temperature = 30 # Or any other number
 
-if temperature > 30:
+if temperature >= 30:
     print("It's a hot day!")  # Indented correctly
