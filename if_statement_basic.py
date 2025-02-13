@@ -1,4 +1,4 @@
-temperature >= 35  # Or any other number
+temperature <= 35  # Or any other number
 if temperature >= 30:
 	 
 	    
